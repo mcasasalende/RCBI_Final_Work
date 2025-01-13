@@ -1,0 +1,352 @@
+[
+    {
+        "run": 1,
+        "size_mis": 86,
+        "violations": 0,
+        "final_loss": -86.0,
+        "training_time": 33.9774
+    },
+    {
+        "run": 2,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 34.1492
+    },
+    {
+        "run": 3,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 33.4163
+    },
+    {
+        "run": 4,
+        "size_mis": 87,
+        "violations": 1,
+        "final_loss": -85.0,
+        "training_time": 32.6904
+    },
+    {
+        "run": 5,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 32.6412
+    },
+    {
+        "run": 6,
+        "size_mis": 82,
+        "violations": 0,
+        "final_loss": -82.0,
+        "training_time": 32.7308
+    },
+    {
+        "run": 7,
+        "size_mis": 84,
+        "violations": 0,
+        "final_loss": -84.0,
+        "training_time": 33.3278
+    },
+    {
+        "run": 8,
+        "size_mis": 79,
+        "violations": 0,
+        "final_loss": -79.0,
+        "training_time": 35.0095
+    },
+    {
+        "run": 9,
+        "size_mis": 81,
+        "violations": 0,
+        "final_loss": -81.0,
+        "training_time": 34.1178
+    },
+    {
+        "run": 10,
+        "size_mis": 85,
+        "violations": 0,
+        "final_loss": -85.0,
+        "training_time": 33.9622
+    },
+    {
+        "run": 11,
+        "size_mis": 84,
+        "violations": 0,
+        "final_loss": -84.0,
+        "training_time": 35.2138
+    },
+    {
+        "run": 12,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 32.9925
+    },
+    {
+        "run": 13,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 32.5323
+    },
+    {
+        "run": 14,
+        "size_mis": 82,
+        "violations": 0,
+        "final_loss": -82.0,
+        "training_time": 32.5095
+    },
+    {
+        "run": 15,
+        "size_mis": 82,
+        "violations": 0,
+        "final_loss": -82.0,
+        "training_time": 33.3316
+    },
+    {
+        "run": 16,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 37.5384
+    },
+    {
+        "run": 17,
+        "size_mis": 84,
+        "violations": 0,
+        "final_loss": -84.0,
+        "training_time": 34.8031
+    },
+    {
+        "run": 18,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 35.2941
+    },
+    {
+        "run": 19,
+        "size_mis": 82,
+        "violations": 0,
+        "final_loss": -82.0,
+        "training_time": 37.183
+    },
+    {
+        "run": 20,
+        "size_mis": 82,
+        "violations": 0,
+        "final_loss": -82.0,
+        "training_time": 34.334
+    },
+    {
+        "run": 21,
+        "size_mis": 81,
+        "violations": 0,
+        "final_loss": -81.0,
+        "training_time": 34.258
+    },
+    {
+        "run": 22,
+        "size_mis": 79,
+        "violations": 0,
+        "final_loss": -79.0,
+        "training_time": 34.3399
+    },
+    {
+        "run": 23,
+        "size_mis": 80,
+        "violations": 0,
+        "final_loss": -80.0,
+        "training_time": 35.3367
+    },
+    {
+        "run": 24,
+        "size_mis": 84,
+        "violations": 0,
+        "final_loss": -84.0,
+        "training_time": 37.6465
+    },
+    {
+        "run": 25,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 33.2728
+    },
+    {
+        "run": 26,
+        "size_mis": 76,
+        "violations": 0,
+        "final_loss": -76.0,
+        "training_time": 33.2705
+    },
+    {
+        "run": 27,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 36.4877
+    },
+    {
+        "run": 28,
+        "size_mis": 82,
+        "violations": 0,
+        "final_loss": -82.0,
+        "training_time": 34.5849
+    },
+    {
+        "run": 29,
+        "size_mis": 81,
+        "violations": 0,
+        "final_loss": -81.0,
+        "training_time": 33.4744
+    },
+    {
+        "run": 30,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 33.445
+    },
+    {
+        "run": 31,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 34.585
+    },
+    {
+        "run": 32,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 34.3516
+    },
+    {
+        "run": 33,
+        "size_mis": 72,
+        "violations": 0,
+        "final_loss": -72.0,
+        "training_time": 34.1229
+    },
+    {
+        "run": 34,
+        "size_mis": 82,
+        "violations": 0,
+        "final_loss": -82.0,
+        "training_time": 33.321
+    },
+    {
+        "run": 35,
+        "size_mis": 86,
+        "violations": 0,
+        "final_loss": -86.0,
+        "training_time": 33.4761
+    },
+    {
+        "run": 36,
+        "size_mis": 85,
+        "violations": 0,
+        "final_loss": -85.0,
+        "training_time": 34.7392
+    },
+    {
+        "run": 37,
+        "size_mis": 67,
+        "violations": 0,
+        "final_loss": -67.0,
+        "training_time": 33.525
+    },
+    {
+        "run": 38,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 33.7404
+    },
+    {
+        "run": 39,
+        "size_mis": 85,
+        "violations": 0,
+        "final_loss": -85.0,
+        "training_time": 33.491
+    },
+    {
+        "run": 40,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 32.7975
+    },
+    {
+        "run": 41,
+        "size_mis": 85,
+        "violations": 0,
+        "final_loss": -85.0,
+        "training_time": 32.4204
+    },
+    {
+        "run": 42,
+        "size_mis": 80,
+        "violations": 0,
+        "final_loss": -80.0,
+        "training_time": 32.4104
+    },
+    {
+        "run": 43,
+        "size_mis": 81,
+        "violations": 0,
+        "final_loss": -81.0,
+        "training_time": 32.7108
+    },
+    {
+        "run": 44,
+        "size_mis": 84,
+        "violations": 0,
+        "final_loss": -84.0,
+        "training_time": 32.5734
+    },
+    {
+        "run": 45,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 32.8815
+    },
+    {
+        "run": 46,
+        "size_mis": 79,
+        "violations": 0,
+        "final_loss": -79.0,
+        "training_time": 34.3093
+    },
+    {
+        "run": 47,
+        "size_mis": 85,
+        "violations": 0,
+        "final_loss": -85.0,
+        "training_time": 33.3698
+    },
+    {
+        "run": 48,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 33.425
+    },
+    {
+        "run": 49,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 33.5161
+    },
+    {
+        "run": 50,
+        "size_mis": 83,
+        "violations": 0,
+        "final_loss": -83.0,
+        "training_time": 33.36
+    }
+]

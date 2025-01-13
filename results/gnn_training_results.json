@@ -1,0 +1,65 @@
+[
+    {
+        "nodes": 10,
+        "degree": 3,
+        "size_mis": 4,
+        "violations": 0,
+        "time": 4.619691610336304
+    },
+    {
+        "nodes": 10,
+        "degree": 5,
+        "size_mis": 0,
+        "violations": 0,
+        "time": 0.2125389575958252
+    },
+    {
+        "nodes": 10,
+        "degree": 7,
+        "size_mis": 0,
+        "violations": 0,
+        "time": 0.30004096031188965
+    },
+    {
+        "nodes": 50,
+        "degree": 3,
+        "size_mis": 20,
+        "violations": 0,
+        "time": 8.266772985458374
+    },
+    {
+        "nodes": 50,
+        "degree": 5,
+        "size_mis": 16,
+        "violations": 0,
+        "time": 10.601083278656006
+    },
+    {
+        "nodes": 50,
+        "degree": 7,
+        "size_mis": 0,
+        "violations": 0,
+        "time": 4.103064298629761
+    },
+    {
+        "nodes": 100,
+        "degree": 3,
+        "size_mis": 41,
+        "violations": 0,
+        "time": 9.116531610488892
+    },
+    {
+        "nodes": 100,
+        "degree": 5,
+        "size_mis": 34,
+        "violations": 0,
+        "time": 15.570348262786865
+    },
+    {
+        "nodes": 100,
+        "degree": 7,
+        "size_mis": 27,
+        "violations": 0,
+        "time": 16.932621002197266
+    }
+]
